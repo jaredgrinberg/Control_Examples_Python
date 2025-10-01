@@ -1,0 +1,20 @@
+name: control_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - numpy
+      - scipy
+      - matplotlib
+      - seaborn
+      - ipython
+      - jupyter
+      - control
+      - gymnasium[classic-control]
+      - gymnasium[mujoco]
+      - stable-baselines3[extra]
+      - tqdm
+      - imageio[ffmpeg]
+      - cvxpy
