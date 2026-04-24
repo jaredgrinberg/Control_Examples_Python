@@ -38,7 +38,7 @@ This project demonstrates and compares control algorithms across two robotic sys
 
 1. **Clone the repository:**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/jaredgrinberg/Control_Examples_Python.git
 cd Control_Examples_Python
 ```
 

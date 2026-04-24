@@ -4,3 +4,10 @@ __pycache__/
 # Personal outputs
 simulations/
 extras/
+
+# Paper/comparison outputs
+create_paper_figure.py
+paper_latex_results.tex
+controller_comparison_results.txt
+controller_comparison_figure.pdf
+controller_comparison_figure.png
